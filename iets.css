@@ -1,4 +1,13 @@
 body{
-  background-image: url("family guy gif.gif");
-  background-size: 1500px 750px;
+  background-color: red;
+}
+header{
+  text-align: center;
+  background-color: black;
+  color: red;
+}
+nav{
+  text-align: center;
+  background-color: black;
+  color: red;
 }
