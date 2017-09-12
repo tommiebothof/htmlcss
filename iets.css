@@ -3,17 +3,17 @@ body{
   background-color: orange;
 }
 header{
+  border-radius: 20px 20px 20px 20px;
   text-align: center;
   background-color: black;
   color: red;
 }
 nav{
-  text-align: center;
+  border-radius: 20px 20px 20px 20px;
   background-color: yellow;
   color: blue;
 }
 section{
-  text-align: center;
   background-color: green;
   color: purple;
 }
@@ -21,7 +21,33 @@ section{
  margin: 0px;
  padding: 0px;
 }
-img{
+#htmlplaatje{
   width: 500px;
   height: 200px;
+
+}
+ul {
+ background: #080808;
+ padding: 10px;
+}
+
+ul li {
+ background: #787878;
+ padding: 5px;
+ border: solid 2px white;
+ display: inline;
+}
+
+ul li a {
+ color: white;
+ text-decoration: none;
+}
+
+ul li a:hover {
+ color: #C0C0C0;
+}
+#plaatje1{
+  position: absolute;
+  top: 500px;
+  left: 400px;
 }
