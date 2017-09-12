@@ -1,5 +1,6 @@
 body{
-  background-color: red;
+  font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+  background-color: orange;
 }
 header{
   text-align: center;
@@ -15,4 +16,12 @@ section{
   text-align: center;
   background-color: green;
   color: purple;
+}
+* {
+ margin: 0px;
+ padding: 0px;
+}
+img{
+  width: 500px;
+  height: 200px;
 }
