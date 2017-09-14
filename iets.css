@@ -62,3 +62,7 @@ footer{
   float: left;
   clear: left;
 }
+em{
+  background-color: red;
+  font-weight: bold;
+}
