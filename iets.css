@@ -12,10 +12,12 @@ nav{
   border-radius: 20px 20px 20px 20px;
   background-color: yellow;
   color: blue;
+  float: left;
 }
 section{
   background-color: green;
   color: purple;
+  float: left;
 }
 * {
  margin: 0px;
@@ -50,4 +52,13 @@ ul li a:hover {
   position: absolute;
   top: 500px;
   left: 400px;
+}
+article{
+  background-color: pink;
+  float: left;
+  clear: left;
+}
+footer{
+  float: left;
+  clear: left;
 }
