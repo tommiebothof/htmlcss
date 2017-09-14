@@ -66,3 +66,6 @@ em{
   background-color: red;
   font-weight: bold;
 }
+nav:hover{
+  background-color: black;
+}
